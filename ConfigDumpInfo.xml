@@ -37,6 +37,7 @@
 		<Metadata name="CommandGroup.Регистры" id="d4523887-ff42-4821-8d12-7865076f3fca" configVersion="01061cbf0d189a41b94722f0fbbf008900000000"/>
 		<Metadata name="CommandGroup.Сервис" id="a85da8c4-0012-4e86-be95-566cb06ece8f" configVersion="691ab57150d1d34a8823b0b87052211000000000"/>
 		<Metadata name="CommandGroup.Справочники" id="7719efc1-5521-41bf-a03d-73565629dd20" configVersion="e9b58f7ef0d88b4cbdc3dea76693cd0c00000000"/>
+		<Metadata name="CommonModule.ЭтоНовыймодуль" id="52bbce84-e659-47c5-a567-8ad073fb3d32" configVersion="6866635f58f38d48bb19b9a03bd0c91100000000"/>
 		<Metadata name="CommonPicture.БизнесПроцессы" id="048c342b-2488-48fa-9744-a36d296e8ef1" configVersion="67c27eeb3c06ef49b9282be0345ec7ea00000000"/>
 		<Metadata name="CommonPicture.БизнесПроцессы.Picture" id="048c342b-2488-48fa-9744-a36d296e8ef1.0" configVersion="7a865a67cb2f9843b0553702b76b89b100000000"/>
 		<Metadata name="CommonPicture.БухгалтерскийУчет" id="7f501b78-b585-4ffd-8858-862d4a3afc7e" configVersion="dac5de9afe0d8c418e1b73e5971d2b2c00000000"/>
@@ -47,7 +48,7 @@
 		<Metadata name="CommonPicture.Расчеты.Picture" id="e2b6e1fc-68c0-46ad-836a-eff575c657db.0" configVersion="9570ee9c82112244a4c6fee20c36bc2e00000000"/>
 		<Metadata name="CommonPicture.Сервис" id="80c9a300-d705-420a-951e-7375284be4b2" configVersion="2ed2cf6e5bb74d4dbfa47df18340997a00000000"/>
 		<Metadata name="CommonPicture.Сервис.Picture" id="80c9a300-d705-420a-951e-7375284be4b2.0" configVersion="af219a4b75143142a4923dad633df73400000000"/>
-		<Metadata name="Configuration.КаркаснаяКонфигурация" id="a92cebe9-4e30-4901-842c-b1cc1d0adc9a" configVersion="f46f63868e92624b896ba223fdfba6b800000000"/>
+		<Metadata name="Configuration.КаркаснаяКонфигурация" id="a92cebe9-4e30-4901-842c-b1cc1d0adc9a" configVersion="d0a5862d76d24f49acacfbc3c52d2a4300000000"/>
 		<Metadata name="Configuration.КаркаснаяКонфигурация.ClientApplicationInterface" id="a0068262-10a0-4841-82b6-f6e35a7fc312.b" configVersion="c97c97af0cc19542a96333652695a71000000000"/>
 		<Metadata name="Configuration.КаркаснаяКонфигурация.CommandInterface" id="a0068262-10a0-4841-82b6-f6e35a7fc312.a" configVersion="785aec5039c1474fb2ee5b871d2d12f200000000"/>
 		<Metadata name="Configuration.КаркаснаяКонфигурация.HomePageWorkArea" id="a0068262-10a0-4841-82b6-f6e35a7fc312.8" configVersion="f76c738206fbb6478e8200543ce641b500000000"/>
@@ -126,6 +127,8 @@
 			<Metadata name="InformationRegister.СведенияОСотрудниках.Resource.Оклад" id="60e0fa05-8fe1-4963-b2db-abd9c4e1c9c5"/>
 		</Metadata>
 		<Metadata name="Language.Русский" id="20b8317c-1c58-4baa-a76a-468fdcd409ff" configVersion="86f9a3e232cc0e43b86adf1bd9b00e5600000000"/>
+		<Metadata name="Role.Администратор" id="322fa9b8-8ca8-4d92-8100-76b97c0aabff" configVersion="9bf7f7b2aa37194ead2be74eb0350c9d00000000"/>
+		<Metadata name="Role.Администратор.Rights" id="322fa9b8-8ca8-4d92-8100-76b97c0aabff.0" configVersion="5173b1337e042d41b40f089a3304195f00000000"/>
 		<Metadata name="Subsystem.БизнесПроцессы" id="c939aa42-b407-44e1-b32c-757b1ae8d92a" configVersion="508f0e7ca214a3478e4ed5f6b6e45c3d00000000"/>
 		<Metadata name="Subsystem.БухгалтерскийУчет" id="c405d5b9-67b3-48f5-96dd-26db7db4f997" configVersion="8d1ef3b8a2a8744aaeb5de674dade6b700000000"/>
 		<Metadata name="Subsystem.ОперативныйУчет" id="f275687d-6ccb-49c7-ad5e-6ccf569e66a1" configVersion="0af5f643c159ec48a1f5d5bb6de7eaef00000000"/>
