@@ -44,6 +44,8 @@
 		<Metadata name="CommonPicture.БухгалтерскийУчет.Picture" id="7f501b78-b585-4ffd-8858-862d4a3afc7e.0" configVersion="4bd8b9f60e74bd47b8a9191601dbdf5700000000"/>
 		<Metadata name="CommonPicture.ОперативныйУчет" id="8a5c69fb-c6ae-4be1-a224-2b8dbb91baec" configVersion="8a03768aae35c6479ed8c91622e7faf500000000"/>
 		<Metadata name="CommonPicture.ОперативныйУчет.Picture" id="8a5c69fb-c6ae-4be1-a224-2b8dbb91baec.0" configVersion="50d665400743f14b87372e29e6b6dcf700000000"/>
+		<Metadata name="CommonPicture.ОперативныйУчетУДАЛИТЬ" id="9bf3efea-b8c5-4661-bb2c-d513b0b2fd8b" configVersion="fcf8de5354025f41b6d4250bbe8fee5400000000"/>
+		<Metadata name="CommonPicture.ОперативныйУчетУДАЛИТЬ.Picture" id="9bf3efea-b8c5-4661-bb2c-d513b0b2fd8b.0" configVersion="560a94af7ba1fb4dbf61169eed04d2af00000000"/>
 		<Metadata name="CommonPicture.Расчеты" id="e2b6e1fc-68c0-46ad-836a-eff575c657db" configVersion="d3bcb6255e7f45489cd9e51599f8746e00000000"/>
 		<Metadata name="CommonPicture.Расчеты.Picture" id="e2b6e1fc-68c0-46ad-836a-eff575c657db.0" configVersion="9570ee9c82112244a4c6fee20c36bc2e00000000"/>
 		<Metadata name="CommonPicture.Сервис" id="80c9a300-d705-420a-951e-7375284be4b2" configVersion="2ed2cf6e5bb74d4dbfa47df18340997a00000000"/>
