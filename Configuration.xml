@@ -249,6 +249,7 @@
 			<CommonPicture>Расчеты</CommonPicture>
 			<CommonPicture>БизнесПроцессы</CommonPicture>
 			<CommonPicture>Сервис</CommonPicture>
+			<CommonModule>ЭтоНовыймодуль</CommonModule>
 			<CommandGroup>Справочники</CommandGroup>
 			<CommandGroup>Регистры</CommandGroup>
 			<CommandGroup>Документы</CommandGroup>
