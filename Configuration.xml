@@ -251,6 +251,7 @@
 			<CommonPicture>Сервис</CommonPicture>
 			<Role>Администратор</Role>
 			<CommonModule>ЭтоНовыймодуль</CommonModule>
+			<CommonModule>ХИМХИХМХ</CommonModule>
 			<CommandGroup>Справочники</CommandGroup>
 			<CommandGroup>Регистры</CommandGroup>
 			<CommandGroup>Документы</CommandGroup>
