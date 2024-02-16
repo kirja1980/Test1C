@@ -37,6 +37,8 @@
 		<Metadata name="CommandGroup.Регистры" id="d4523887-ff42-4821-8d12-7865076f3fca" configVersion="5c83d2cbc9b877449d5ba3d6df0a293a00000000"/>
 		<Metadata name="CommandGroup.Сервис" id="a85da8c4-0012-4e86-be95-566cb06ece8f" configVersion="7a1b75dd571771479c435e13747b8d8100000000"/>
 		<Metadata name="CommandGroup.Справочники" id="7719efc1-5521-41bf-a03d-73565629dd20" configVersion="55ef47274be5d4478620b2e70d9a606400000000"/>
+		<Metadata name="CommonModule.asdasdasdasd" id="48e6d287-b167-40ea-b8e7-f1c4f1738c66" configVersion="33e522abc76dac4187ede3546e9188e300000000"/>
+		<Metadata name="CommonModule.ershdfhsdfhkj" id="7679c0f3-7273-4b96-bf6c-9a05134a4398" configVersion="30b73a6db0999a4cb364060bfc742fea00000000"/>
 		<Metadata name="CommonModule.ХИМХИХМХ" id="dbdc1d4c-32bc-41b1-9c4f-00cd3469ae25" configVersion="9e444ae114a2f24794244a0426d045a400000000"/>
 		<Metadata name="CommonModule.ЭтоНовыймодуль" id="52bbce84-e659-47c5-a567-8ad073fb3d32" configVersion="96e5cf5dfefdc341a5e820ecb6f7bfe600000000"/>
 		<Metadata name="CommonPicture.БизнесПроцессы" id="048c342b-2488-48fa-9744-a36d296e8ef1" configVersion="4366ac68ce988148be66bafd94b13bf200000000"/>
@@ -49,7 +51,7 @@
 		<Metadata name="CommonPicture.Расчеты.Picture" id="e2b6e1fc-68c0-46ad-836a-eff575c657db.0" configVersion="cd3796b4229276439b8b69102e6d75cf00000000"/>
 		<Metadata name="CommonPicture.Сервис" id="80c9a300-d705-420a-951e-7375284be4b2" configVersion="7122b62491c57049b60250926bf5669300000000"/>
 		<Metadata name="CommonPicture.Сервис.Picture" id="80c9a300-d705-420a-951e-7375284be4b2.0" configVersion="54d8961dc33dd643a7182c68804a410500000000"/>
-		<Metadata name="Configuration.КаркаснаяКонфигурация" id="a92cebe9-4e30-4901-842c-b1cc1d0adc9a" configVersion="76a1aa7a142af743badad01341f6e49f00000000"/>
+		<Metadata name="Configuration.КаркаснаяКонфигурация" id="a92cebe9-4e30-4901-842c-b1cc1d0adc9a" configVersion="7f6b2754a69ce9428a0b96387a2f56a500000000"/>
 		<Metadata name="Configuration.КаркаснаяКонфигурация.ClientApplicationInterface" id="a0068262-10a0-4841-82b6-f6e35a7fc312.b" configVersion="1a0eb37630256c4db5652777a38b9ad400000000"/>
 		<Metadata name="Configuration.КаркаснаяКонфигурация.CommandInterface" id="a0068262-10a0-4841-82b6-f6e35a7fc312.a" configVersion="8aaf168b3d03364ab2717bb69de45d9c00000000"/>
 		<Metadata name="Configuration.КаркаснаяКонфигурация.HomePageWorkArea" id="a0068262-10a0-4841-82b6-f6e35a7fc312.8" configVersion="edc39fd739a9164894e7cfd2ebfe3b2800000000"/>
