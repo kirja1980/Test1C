@@ -249,6 +249,10 @@
 			<CommonPicture>Расчеты</CommonPicture>
 			<CommonPicture>БизнесПроцессы</CommonPicture>
 			<CommonPicture>Сервис</CommonPicture>
+			<Role>Администратор</Role>
+			<CommonModule>ЭтоНовыймодуль</CommonModule>
+			<CommonModule>ХИМХИХМХ</CommonModule>
+			<CommonModule>ershdfhsdfhkj</CommonModule>
 			<CommandGroup>Справочники</CommandGroup>
 			<CommandGroup>Регистры</CommandGroup>
 			<CommandGroup>Документы</CommandGroup>
